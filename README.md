@@ -11,9 +11,9 @@
   </p>
 </div>
 
----
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 # About Me
@@ -22,85 +22,76 @@ I'm a 4th-year Computer Science student passionate about software development, A
 
 I enjoy building practical solutions, learning new technologies and tackling challenging algorithmic problems.
 
-# 🧠 What I Do
+## What I Do
 
-<table>
-<tr>
-<td width="50%">
-
-   ### 🤖 AI & ML
+### 🤖 AI & ML
 
 I'm interested in **AI and Machine Learning**, exploring how intelligent systems can be developed to solve real-world problems.
-
-</td>
-<td width="50%">
 
 ### 🧠 Algorithms
 
 I enjoy competitive programming and solving problems involving **advanced data structures, algorithms, mathematics, and optimization**.
-</td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🌐 Full-Stack
+### Full-Stack
 
 Although backend is my main focus, I also have experience with **React and Streamlit** for building interfaces and interactive applications.
 
 </td>
-<td width="50%">
-</td>
-</tr>
-</table>
-</td>
+
 <td width="50%" valign="top">
 
-# Skills
+# 🛠️ Skills
 
-- **Problem Solving**
-- **Design & analysis of Algorithm**
-- **Backend Architecture**
-- **Machine Learning**
+* **Problem Solving**
+* **Design & Analysis of Algorithms**
+* **Backend Architecture**
+* **Machine Learning**
 
-# 🛠️ Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript" height="40"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,mysql,nextjs,vercel,mongodb,dotnet"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,mysql,nextjs,vercel,mongodb,dotnet" height="40"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,vercel,npm,pnpm,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,vercel,npm,pnpm,nodejs" height="40"/>
 </p>
 
 ### AI & ML
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,selenium">
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,selenium" height="40"/>
+</p>
 
 ### Tools & Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,docker" height="40"/>
 </p>
+
 </td>
+
 </tr>
 </table>
 
+---
 
-# Projects:
+# Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### AutoDash
 
@@ -109,44 +100,51 @@ Create functional Streamlit dashboards using only natural language.
 **Stack:**
 `Python` `Streamlit` `AI_Agents` `LLMs`
 
-[→ View Repository](https://github.com/DarioDev01/AutoDash.git)
+[→ View Repository](https://github.com/DarioDev01/AutoDash)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### EDA_Bank
 
-Collection of Data Structures and Algorithms in C++
+Collection of Data Structures and Algorithms in C++.
 
 **Stack:**
 `C++` `EDA` `DAA`
 
-[→ View Repository](https://github.com/DarioDev01/EDA_Bank.git)
+[→ View Repository](https://github.com/DarioDev01/EDA_Bank)
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### SafeKey
+<td width="50%" valign="top">
 
-Chrome extension to catch and block accidental API key leaks before you hit send.
+### 🔐 SafeKey
 
-**Stack:** `Css` `HTML` `JavaScript` `Chrome_Extension`
+Chrome extension designed to catch and block accidental API key leaks before you hit send.
 
-[→ View Repository](https://github.com/DarioDev01/SafeKey.git)
+**Stack:**
+`CSS` `HTML` `JavaScript` `Chrome Extension`
+
+[→ View Repository](https://github.com/DarioDev01/SafeKey)
 
 </td>
-<td width="50%">
 
-### 🔮 More coming soon
+<td width="50%" valign="top">
 
-I'm continuously working on new ideas and projects to expand my skills and build a stronger portfolio.
+### 🔮 More Coming Soon
+
+I'm continuously working on new ideas and projects to expand my skills, explore new technologies, and build a stronger portfolio.
+
 </td>
+
 </tr>
 </table>
+
 
 # GitHub Analytics
 
