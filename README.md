@@ -14,7 +14,6 @@
 ---
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 # About Me
@@ -29,7 +28,7 @@ I enjoy building practical solutions, learning new technologies and tackling cha
 <tr>
 <td width="50%">
 
-### 🤖 AI & ML
+   ### 🤖 AI & ML
 
 I'm interested in **AI and Machine Learning**, exploring how intelligent systems can be developed to solve real-world problems.
 
@@ -39,10 +38,8 @@ I'm interested in **AI and Machine Learning**, exploring how intelligent systems
 ### 🧠 Algorithms
 
 I enjoy competitive programming and solving problems involving **advanced data structures, algorithms, mathematics, and optimization**.
-
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
@@ -52,56 +49,49 @@ Although backend is my main focus, I also have experience with **React and Strea
 
 </td>
 <td width="50%">
-
-
 </td>
 </tr>
 </table>
-
 </td>
-
 <td width="50%" valign="top">
 
 # Skills
 
 - **Problem Solving**
-- **Algorithm Design**
+- **Design & analysis of Algorithm**
 - **Backend Architecture**
-- **Object-Oriented Programming**
 - **Machine Learning**
-- **Software Development**
 
 # 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,mysql,nextjs,vercel,mongodb,dotnet"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,mysql,nextjs,vercel,mongodb,dotnet"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,vercel,npm,pnpm,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,vercel,npm,pnpm,nodejs" />
 </p>
 
 ### AI & ML
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,selenium">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,selenium">
 
 ### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,docker" />
 </p>
-
 </td>
-
 </tr>
 </table>
 
