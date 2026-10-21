@@ -93,27 +93,27 @@ Although backend is my main focus, I also have experience with **React and Strea
 
 <td width="50%" valign="top">
 
-### AutoDash
+<!-- ### AutoDash
 
 Create functional Streamlit dashboards using only natural language.
 
 **Stack:**
 `Python` `Streamlit` `AI_Agents` `LLMs`
 
-[→ View Repository](https://github.com/DarioDev01/AutoDash)
+[→ View Repository](https://github.com/DarioDev01/AutoDash) -->
 
 </td>
 
 <td width="50%" valign="top">
 
-### EDA_Bank
+<!-- ### EDA_Bank
 
 Collection of Data Structures and Algorithms in C++.
 
 **Stack:**
 `C++` `EDA` `DAA`
 
-[→ View Repository](https://github.com/DarioDev01/EDA_Bank)
+[→ View Repository](https://github.com/DarioDev01/EDA_Bank) -->
 
 </td>
 
@@ -136,7 +136,7 @@ Chrome extension designed to catch and block accidental API key leaks before you
 
 <td width="50%" valign="top">
 
-### 🔮 More Coming Soon
+###  More Coming Soon
 
 I'm continuously working on new ideas and projects to expand my skills, explore new technologies, and build a stronger portfolio.
 
